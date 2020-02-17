@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="Delmod__Combiner" />
+        <Description value="Adds the Combiner capability to the Workbench and the Vehicles" />
+        <Author value="Shouden with Heavy Reliance on DelStryker" />
+        <Version value="1.00a" />
+    </ModInfo>
+</xml>
